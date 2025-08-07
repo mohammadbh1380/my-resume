@@ -10,7 +10,7 @@
 
 html{
   scroll-behavior: smooth;
-  overflow-x: hidden;
+/*   overflow-x: hidden; */
 }
 
 *{
@@ -18,12 +18,12 @@ html{
 }
 
 body{
+  overflow-x: hidden;
   font-family: 'IranSans', sans-serif;
   margin:0;
   padding: 0;
   background-color: #fff;
   box-sizing: border-box;
-  overflow-x: hidden;
 }
 
 p,h1,h2,h3,h4,h5{
@@ -199,3 +199,4 @@ section#about{
   margin-top: 50px;
 
 }
+
