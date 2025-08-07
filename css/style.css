@@ -10,7 +10,7 @@
 
 html{
   scroll-behavior: smooth;
-/*   overflow-x: hidden; */
+  overflow-x: hidden;
 }
 
 *{
@@ -199,4 +199,5 @@ section#about{
   margin-top: 50px;
 
 }
+
 
