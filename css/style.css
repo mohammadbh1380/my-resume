@@ -29,6 +29,10 @@ p,h1,h2,h3,h4,h5{
   cursor: default;
 }
 
+#about,#resume,#skills,#contact{
+  overflow-x: hidden;
+}
+
 .nav-link {
   position: relative;
   transition: all 0.3s ease;
@@ -198,6 +202,7 @@ section#about{
   margin-top: 50px;
 
 }
+
 
 
 
